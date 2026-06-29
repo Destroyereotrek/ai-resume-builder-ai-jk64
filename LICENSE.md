@@ -1,4 +1,4 @@
-# 
+# VIP AI Resume Builder modèles. Avec IA de bord et scalabilité de l'IA — optimisé pour des performances maximales.
 
 
 
